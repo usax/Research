@@ -1,0 +1,9 @@
+https://discuss.gradle.org/t/how-can-i-set-an-explicit-archive-name-when-doing-uploadarchives/6775/7
+
+http://stackoverflow.com/questions/3445825/gradle-how-do-i-build-a-jar-with-a-lib-dir-with-other-jars-in-it
+
+http://stackoverflow.com/questions/24724383/add-resources-config-files-to-your-jar-using-gradle
+
+http://stackoverflow.com/questions/20008324/gradle-multiple-jars-from-single-source-folder
+
+http://stackoverflow.com/questions/24724383/add-resources-config-files-to-your-jar-using-gradle
