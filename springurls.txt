@@ -43,3 +43,5 @@ http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/
 http://www.programming-free.com/2014/01/spring-mvc-40-restful-web-services.html
 
 http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example/
+
+http://localhost:8080/SpringRest/swagger-ui.html
