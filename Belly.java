@@ -9,7 +9,7 @@ public class Belly {
 
     public String getSound(int waitingTime) {
         if (cukes > 41 && waitingTime >= 1) {
-            return "growl";
+            return "growl1";
         } else {
             return "silent";
         }
